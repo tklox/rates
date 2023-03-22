@@ -1,4 +1,4 @@
-fetch("https://cdn.jsdelivr.net/gh/tklox/rates@ae77eab727fc00ed1ea6ac3b7f888b21fbd40130/rates.json", {cache: "no-store"})
+fetch("https://github.com/tklox/rates/blob/f26f0ca1d8240af1bcbe8e6e9102d307e67a0d4f/rates_header.php", {cache: "no-store"})
             .then(function (response) {
                 return response.json();
             })
