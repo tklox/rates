@@ -1,4 +1,4 @@
-fetch("https://www.australianmilitarybank.com.au/sites/all/themes/rates_new.json", {cache: "no-store"})
+fetch("https://github.com/tklox/rates/blob/3e5439136d1da99a5c57bff36ce3e1a0a02b6a24/rates.json", {cache: "no-store"})
             .then(function (response) {
                 return response.json();
             })
