@@ -1,0 +1,98 @@
+[			
+	{		
+	"id":	"plcar"	,
+	"ir":	"from 5.99% p.a. to 9.69% p.a."	,
+	"cr":	"from 6.87% p.a. to 11.12% p.a."	
+	},		
+	{		
+	"id":	"plcarfrom"	,
+	"ir":	" 5.99<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	" 6.87<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"pldateff"	,
+	"ir":	"Rates are effective from 15 November 2022 and are subject to change.<\/br>The Target Market Determinations (TMD) for our products are available <a href=\"https://www.australianmilitarybank.com.au/target-market-determination\" target=\"_blank\">here<\/a>"	,
+	"cr":	""	
+	},		
+	{		
+	"id":	"plvar"	,
+	"ir":	"from 8.15% p.a. to 14.70% p.a."	,
+	"cr":	"from 9.01% p.a. to 16.12% p.a."	
+	},		
+	{		
+	"id":	"plvarfrom"	,
+	"ir":	" 8.15<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	" 9.01<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"plgrn"	,
+	"ir":	"5.15%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.08%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"hldateff"	,
+	"ir":	"Rates effective for new business from 28 February 2023. Rates are current at the time of publication and are subject to change. Rates displayed on this page are not reference rates and are available for new loan applications only unless noted otherwise. <\/br>The Target Market Determinations (TMD) for our products are available <a href=\"https://www.australianmilitarybank.com.au/target-market-determination\" target=\"_blank\">here<\/a>"	,
+	"cr":	""	
+	},		
+	{		
+	"id":	"hlsav"	,
+	"ir":	"5.00%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"5.04%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"dhcr":	"5.04%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"hlval"	,
+	"ir":	"5.64%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"5.68%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"dhcr":	"5.68%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"hlfix1"	,
+	"ir":	"5.89%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.33%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"dhcr":	"6.33%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"hlfix2"	,
+	"ir":	"6.39%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.39%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"dhcr":	"6.39%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"hlfix3"	,
+	"ir":	"6.44%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.41%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"dhcr":	"6.41%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"hlfix5"	,
+	"ir":	"6.69%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.54%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"dhcr":	"6.54%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"ilvar"	,
+	"ir":	"5.94%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"5.98%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"ilsav"	,
+	"ir":	"5.24%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"5.28%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"ilfix2"	,
+	"ir":	"6.39%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.14%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"ilfix3"	,
+	"ir":	"6.49%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.14%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	},		
+	{		
+	"id":	"hlcon"	,
+	"ir":	"6.63%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	,
+	"cr":	"6.67%<sup style=\"font-weight:200;font-size:60%;\">p.a.<\/sup>"	
+	}		
+]			
